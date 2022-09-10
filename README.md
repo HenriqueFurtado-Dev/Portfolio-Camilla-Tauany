@@ -13,9 +13,9 @@ Portfolio feito para uma designer para apresentação de projetos
 
 Acesse o site no **GITHUB PAGES:**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://henriquefurtado-dev.github.io/Portfolio-Camilla/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://henriquefurtado-dev.github.io/Portfolio-Camilla-Tauany/)
 
 ou 
 
-[Clique aqui](https://henriquefurtado-dev.github.io/Portfolio-Camilla/)
+[Clique aqui](https://henriquefurtado-dev.github.io/Portfolio-Camilla-Tauany/)
 
