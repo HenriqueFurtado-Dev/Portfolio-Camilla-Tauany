@@ -8,7 +8,7 @@
 
 ## Sobre a empresa
 
-Medicenter uma experiência unica, tenha acesso as melhores consultas e serviços, feito especialmente para você!
+Portfolio feito para uma designer para apresentação de projetos
 
 
 Acesse o site no **GITHUB PAGES:**
